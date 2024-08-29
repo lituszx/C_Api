@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="estilo.xslt"?>
+<adaptador>
+  <ip>192.168.0.30</ip>
+  <mascara>255.255.255.0</mascara>
+  <puerta_enlace>192.168.0.1</puerta_enlace>
+  <servidor_dns>
+    <ip>192.168.0.1
+</ip>
+    <velocidad_media_respuesta>0.03</velocidad_media_respuesta>
+    <hop_count>2</hop_count>
+    <ips_saltos>
+      <salto>192.168.0.1</salto>
+      <salto>192.168.0.1</salto>
+    </ips_saltos>
+  </servidor_dns>
+</adaptador>
